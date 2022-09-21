@@ -8,5 +8,5 @@
 import Foundation
 
 class View {
-    
+    let counter = 0
 }
