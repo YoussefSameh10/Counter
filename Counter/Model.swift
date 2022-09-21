@@ -9,4 +9,5 @@ import Foundation
 
 struct Model {
     let id = 0
+    let age = 10
 }
